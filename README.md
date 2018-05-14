@@ -1,0 +1,2 @@
+# linuxterminal
+documentation for admin
